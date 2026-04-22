@@ -28,3 +28,20 @@
 ## API
 - API format: JSON(JavaScript Objet Notation)
 - REST (Representational state transfer) API
+
+## HTTP Methods
+
+
+## Layered Architecture(Backend)
+1. API Layer
+    a. Routes: Handle routes/endpoints
+    b. Controllers: Handle request/response
+    c. Middlewares: Handle request/response, Logging, Auth
+
+2. Business Logic Layer
+    a. Services
+
+3. Data Logic Layer
+    a. Models
+
+4. Database Layer
