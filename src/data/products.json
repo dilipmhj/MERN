@@ -1,6 +1,6 @@
 [
   {
-    "_id": "694aa7a0d9fb1310b0004a20",
+    "id": "694aa7a0d9fb1310b0004a20",
     "name": "Iphone 16 Pro Max",
     "brand": "Apple",
     "category": "Smartphones",
@@ -13,7 +13,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "694aa7f6d9fb1310b0004a25",
+    "id": "694aa7f6d9fb1310b0004a25",
     "name": "Mac Book Pro M4 Pro",
     "brand": "Apple",
     "category": "Laptops",
@@ -26,7 +26,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "694ab2526f6f172ab9121e0b",
+    "id": "694ab2526f6f172ab9121e0b",
     "name": "Samsung s25 Ultra",
     "brand": "Samsung",
     "category": "Smartphones",
@@ -39,7 +39,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "694ab3870322073d064318b2",
+    "id": "694ab3870322073d064318b2",
     "name": "OnePlus Nord 3",
     "brand": "OnePlus",
     "category": "Smartphones",
@@ -52,7 +52,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "694ab4ec04d9cec85b289674",
+    "id": "694ab4ec04d9cec85b289674",
     "name": "Apple Watch 4",
     "brand": "Apple",
     "category": "Smartwatches",
@@ -65,7 +65,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "696a50dfe107d80275e4890e",
+    "id": "696a50dfe107d80275e4890e",
     "name": "Acer Predator Helios 300",
     "brand": "Acer",
     "category": "Laptops",
@@ -79,7 +79,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "696a512d3f2477082461bafc",
+    "id": "696a512d3f2477082461bafc",
     "name": "Acer Nitro",
     "brand": "Acer",
     "category": "Laptops",
@@ -92,7 +92,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "696a516f3f2477082461baff",
+    "id": "696a516f3f2477082461baff",
     "name": "Pixel 10 16GB 512 MB",
     "brand": "Google",
     "category": "Smartphones",
@@ -105,7 +105,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "6972438219705465c975b9a3",
+    "id": "6972438219705465c975b9a3",
     "name": "Google Pixel 10 XL 16GB 512GB",
     "brand": "Google",
     "category": "Smartphones",
@@ -118,7 +118,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "697244ce19705465c975b9b1",
+    "id": "697244ce19705465c975b9b1",
     "name": "Acer Predator Helios 300 2025 16GB 1TB I5 13Gen",
     "brand": "Acer",
     "category": "Laptops",
@@ -132,7 +132,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "69724587540d3e386cea0ad8",
+    "id": "69724587540d3e386cea0ad8",
     "name": "Samsung S24 Ultra",
     "brand": "Samsung",
     "category": "Smartphones",
@@ -145,7 +145,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "697331678be1fcd889502816",
+    "id": "697331678be1fcd889502816",
     "name": "Lenovo Legion Pro 7i Gaming Laptop 2025",
     "brand": "Lenovo",
     "category": "Laptops",
@@ -156,7 +156,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "6973369595e91ed11f289441",
+    "id": "6973369595e91ed11f289441",
     "name": "Iphone 17 pro max 16GB RAM 1TB ",
     "brand": "Apple",
     "category": "Smartphones",
@@ -169,7 +169,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "69762d38c7682357c0d04062",
+    "id": "69762d38c7682357c0d04062",
     "name": "Wireless Headphone with 8D Surround Sound",
     "brand": "Beats by Dr.Dre",
     "category": "Headphones",
@@ -182,7 +182,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "6978cd0597dd96e2c4220cf4",
+    "id": "6978cd0597dd96e2c4220cf4",
     "name": "Logitech MX Master 3S Wireless mouse",
     "brand": "Logitech",
     "category": "Electronics",
@@ -196,7 +196,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "697f6ee35aaeba83ee1a8a64",
+    "id": "697f6ee35aaeba83ee1a8a64",
     "name": "Nothing Phone 3 | Snapdragon 3 Elite | 12GB RAM | 512GB ",
     "brand": "Nothing",
     "category": "Smartphones",
@@ -212,7 +212,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "69835d9960c1d6a7b34d7464",
+    "id": "69835d9960c1d6a7b34d7464",
     "name": "Ultima Marvel 16W RMS Bluetooth Speaker with Ultima Supreme Sound",
     "brand": "Ultima",
     "category": "Speakers",
@@ -226,7 +226,7 @@
     "createdBy": "69835834d67794a9a2352bc4"
   },
   {
-    "_id": "69835e2560c1d6a7b34d747b",
+    "id": "69835e2560c1d6a7b34d747b",
     "name": "FANTECH ATOM MK886 MECHANICAL KEYBOARD",
     "brand": "Fantech",
     "category": "Keyboards",
@@ -239,7 +239,7 @@
     "createdBy": "6980b6577615107a338b8d14"
   },
   {
-    "_id": "698366b8a924020394e875da",
+    "id": "698366b8a924020394e875da",
     "name": "Ultima Soundbox S50",
     "brand": "Ultima",
     "category": "Speakers",
@@ -253,7 +253,7 @@
     "createdBy": "69835834d67794a9a2352bc4"
   },
   {
-    "_id": "69bd65b364370d8e67062a89",
+    "id": "69bd65b364370d8e67062a89",
     "name": "Mac Book Pro 16 Inch 32 GB RAM",
     "brand": "Apple",
     "category": "Laptops",
@@ -266,7 +266,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "694aa7a0d9fb1310b0004a20",
+    "id": "694aa7a0d9fb1310b0004a20",
     "name": "Iphone 16 Pro Max",
     "brand": "Apple",
     "category": "Smartphones",
@@ -279,7 +279,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "694aa7f6d9fb1310b0004a25",
+    "id": "694aa7f6d9fb1310b0004a25",
     "name": "Mac Book Pro M4 Pro",
     "brand": "Apple",
     "category": "Laptops",
@@ -292,7 +292,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "694ab2526f6f172ab9121e0b",
+    "id": "694ab2526f6f172ab9121e0b",
     "name": "Samsung s25 Ultra",
     "brand": "Samsung",
     "category": "Smartphones",
@@ -305,7 +305,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "694ab3870322073d064318b2",
+    "id": "694ab3870322073d064318b2",
     "name": "OnePlus Nord 3",
     "brand": "OnePlus",
     "category": "Smartphones",
@@ -318,7 +318,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "694ab4ec04d9cec85b289674",
+    "id": "694ab4ec04d9cec85b289674",
     "name": "Apple Watch 4",
     "brand": "Apple",
     "category": "Smartwatches",
@@ -331,7 +331,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "696a50dfe107d80275e4890e",
+    "id": "696a50dfe107d80275e4890e",
     "name": "Acer Predator Helios 300",
     "brand": "Acer",
     "category": "Laptops",
@@ -345,7 +345,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "696a512d3f2477082461bafc",
+    "id": "696a512d3f2477082461bafc",
     "name": "Acer Nitro",
     "brand": "Acer",
     "category": "Laptops",
@@ -358,7 +358,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "696a516f3f2477082461baff",
+    "id": "696a516f3f2477082461baff",
     "name": "Pixel 10 16GB 512 MB",
     "brand": "Google",
     "category": "Smartphones",
@@ -371,7 +371,7 @@
     "createdBy": "694aa727d9fb1310b0004a18"
   },
   {
-    "_id": "6972438219705465c975b9a3",
+    "id": "6972438219705465c975b9a3",
     "name": "Google Pixel 10 XL 16GB 512GB",
     "brand": "Google",
     "category": "Smartphones",
@@ -384,7 +384,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "697244ce19705465c975b9b1",
+    "id": "697244ce19705465c975b9b1",
     "name": "Acer Predator Helios 300 2025 16GB 1TB I5 13Gen",
     "brand": "Acer",
     "category": "Laptops",
@@ -398,7 +398,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "69724587540d3e386cea0ad8",
+    "id": "69724587540d3e386cea0ad8",
     "name": "Samsung S24 Ultra",
     "brand": "Samsung",
     "category": "Smartphones",
@@ -411,7 +411,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "697331678be1fcd889502816",
+    "id": "697331678be1fcd889502816",
     "name": "Lenovo Legion Pro 7i Gaming Laptop 2025",
     "brand": "Lenovo",
     "category": "Laptops",
@@ -422,7 +422,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "6973369595e91ed11f289441",
+    "id": "6973369595e91ed11f289441",
     "name": "Iphone 17 pro max 16GB RAM 1TB ",
     "brand": "Apple",
     "category": "Smartphones",
@@ -435,7 +435,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "69762d38c7682357c0d04062",
+    "id": "69762d38c7682357c0d04062",
     "name": "Wireless Headphone with 8D Surround Sound",
     "brand": "Beats by Dr.Dre",
     "category": "Headphones",
@@ -448,7 +448,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "6978cd0597dd96e2c4220cf4",
+    "id": "6978cd0597dd96e2c4220cf4",
     "name": "Logitech MX Master 3S Wireless mouse",
     "brand": "Logitech",
     "category": "Electronics",
@@ -462,7 +462,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "697f6ee35aaeba83ee1a8a64",
+    "id": "697f6ee35aaeba83ee1a8a64",
     "name": "Nothing Phone 3 | Snapdragon 3 Elite | 12GB RAM | 512GB ",
     "brand": "Nothing",
     "category": "Smartphones",
@@ -478,7 +478,7 @@
     "createdBy": "696e3d40e71a09959e6a31ca"
   },
   {
-    "_id": "69835d9960c1d6a7b34d7464",
+    "id": "69835d9960c1d6a7b34d7464",
     "name": "Ultima Marvel 16W RMS Bluetooth Speaker with Ultima Supreme Sound",
     "brand": "Ultima",
     "category": "Speakers",
@@ -492,7 +492,7 @@
     "createdBy": "69835834d67794a9a2352bc4"
   },
   {
-    "_id": "69835e2560c1d6a7b34d747b",
+    "id": "69835e2560c1d6a7b34d747b",
     "name": "FANTECH ATOM MK886 MECHANICAL KEYBOARD",
     "brand": "Fantech",
     "category": "Keyboards",
@@ -505,7 +505,7 @@
     "createdBy": "6980b6577615107a338b8d14"
   },
   {
-    "_id": "698366b8a924020394e875da",
+    "id": "698366b8a924020394e875da",
     "name": "Ultima Soundbox S50",
     "brand": "Ultima",
     "category": "Speakers",
@@ -519,7 +519,7 @@
     "createdBy": "69835834d67794a9a2352bc4"
   },
   {
-    "_id": "69bd65b364370d8e67062a89",
+    "id": "69bd65b364370d8e67062a89",
     "name": "Mac Book Pro 16 Inch 32 GB RAM",
     "brand": "Apple",
     "category": "Laptops",

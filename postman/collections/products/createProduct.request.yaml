@@ -1,0 +1,20 @@
+$kind: http-request
+name: createProduct
+url: http://localhost:8000/api/products
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\": \"KLD Pant\",\r
+
+    \    \"brand\": \"KLD\",\r
+
+    \    \"category\": \"Pant\",\r
+
+    \    \"price\": \"2500\"\r
+
+    \    \r
+
+    }"
+order: 3000

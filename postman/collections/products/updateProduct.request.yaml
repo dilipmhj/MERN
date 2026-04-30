@@ -1,0 +1,5 @@
+$kind: http-request
+name: updateProduct
+url: http://localhost:8000/api/products
+method: PUT
+order: 1000

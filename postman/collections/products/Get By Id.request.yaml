@@ -1,0 +1,5 @@
+$kind: http-request
+name: Get By Id
+url: http://localhost:8000/api/products
+method: GET
+order: 4443602786724772
